@@ -1,0 +1,1 @@
+{"name":"Local: 迷宫寻路","url":"c:\\Users\\fjq\\.vscode\\牛客深度优先搜索\\迷宫寻路.cpp","tests":[{"id":1770007026872,"input":"3 5\n.##.#\n.#...\n...#.","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\fjq\\.vscode\\牛客深度优先搜索\\迷宫寻路.cpp","group":"local","local":true}

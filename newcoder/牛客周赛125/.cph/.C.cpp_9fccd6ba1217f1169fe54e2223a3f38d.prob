@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\fjq\\.vscode\\牛客周赛125\\C.cpp","tests":[{"id":1768234702080,"input":"2\n5\n2 0 3 3 4\n6\n0 0 1 0 0 2","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\fjq\\.vscode\\牛客周赛125\\C.cpp","group":"local","local":true}

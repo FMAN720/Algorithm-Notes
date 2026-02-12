@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\fjq\\.vscode\\牛客寒假算法基础训练营5\\C.cpp","tests":[{"id":1770825597954,"input":"2 1 10 1000000\n0 114\n1000000 514","output":"1945.52529193"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\fjq\\.vscode\\牛客寒假算法基础训练营5\\C.cpp","group":"local","local":true}

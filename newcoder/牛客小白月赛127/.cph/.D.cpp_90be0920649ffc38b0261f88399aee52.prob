@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"c:\\Users\\fjq\\.vscode\\牛客小白月赛127\\D.cpp","tests":[{"id":1768574572358,"input":"6\n1 1 2\nr\n1 1 2\ny\n1 1 2\nw\n3 0 5\nryy\n6 1 2\nyyyywy\n5 5 11\nwwwww","output":"1\n1\n1\n3\n1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\fjq\\.vscode\\牛客小白月赛127\\D.cpp","group":"local","local":true}
