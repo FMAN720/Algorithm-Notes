@@ -1,0 +1,1 @@
+{"name":"Local: G1","url":"c:\\Users\\fjq\\.vscode\\cf964\\G1.cpp","tests":[{"id":1770221851483,"input":"2\n\n18\n\n25\n\n\n9999","output":"? 3 5\n\n? 4 4\n\n! 4\n? 99 100\n\n! 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\fjq\\.vscode\\cf964\\G1.cpp","group":"local","local":true}
